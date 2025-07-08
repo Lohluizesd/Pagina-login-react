@@ -1,12 +1,27 @@
-# React + Vite
+# Login - React + Vite 
+<p align="center"> Projeto desenvolvido com o intuito de aplicar conhecimentos práticos sobre React por meio de UseState.</p>
+<p align="center"> O projeto conta um tela simples e intuitiva de login em que o usuário coloca seu e-mail e senha e ao clicar em enviar uma mensagem é mostrada no navegador afirmando que houve envio de dados.
+Há uma validação do input do tipo e-mail. </p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de tela 2025-07-08 202917](https://github.com/user-attachments/assets/e566517b-adc9-4481-955f-1672583ccf42)
 
-Currently, two official plugins are available:
+<h4 align="center">
+	🚧  Projeto FInalizado 🚧
+</h4>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Tecnologias utilizadas
+- React
+- Vite
 
-## Expanding the ESLint configuration
+📂 Pré-requisitos
+Antes de começar, você vai precisar ter instalado:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Git (opcional, caso vá clonar o repositório);
+- Um gerenciador de pacotes, como o npm ou o yarn;
+
+🔧 Como rodar o projeto localmente
+<p> 1º) No seu terminal digite git clone https://github.com/lohluizesd/Pagina-login-react.git .</p>
+<p> 2º) Acesse a pasta do projeto digitando ainda no terminal: cd nome-do-repositorio </p>
+<p> 3º) Instale as dependências com: npm install </p>
+<p> 4º) E por fim, digite para rodar o projeto o comando: npm run dev </p>
+<p> Pronto! </p>
